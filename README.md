@@ -14,3 +14,7 @@ o	A Cache Service ( Redis). – used official redis image from docker hub
 4. Push Docker Images to a Registry
 •	Build and push your Docker images to a Docker registry (e.g., Docker Hub). Provide the image links in your documentation.
 •	docker pull adityagautam1909/docker-assignment-basic
+
+
+![image](https://github.com/user-attachments/assets/7421e28b-82f8-4fd3-b912-98c5edd86e1f)
+![image](https://github.com/user-attachments/assets/c859ef02-6e95-443f-9676-85757c30d081)
